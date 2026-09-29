@@ -11,7 +11,7 @@
 [![SIH 2026](https://img.shields.io/badge/SIH-2026-blue?style=for-the-badge)](https://www.sih.gov.in/)
 [![Problem](https://img.shields.io/badge/Problem-26152-orange?style=for-the-badge)](https://www.sih.gov.in/)
 [![Status](https://img.shields.io/badge/Status-Submission%20Ready-success?style=for-the-badge)](https://github.com/Sentinex-Technologies/sentinex-social-intelligence)
-[![College](https://img.shields.io/badge/College-VNITW-purple?style=for-the-badge)](https://vnitw.ac.in/)
+[![College](https://img.shields.io/badge/College-VNITSW-purple?style=for-the-badge)](https://VNITSW.ac.in/)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ## 🎯 About Sentinex Technologies
 
-**Sentinex Technologies** is a student innovation team from **Vignan's Nirula Institute of Technology for Women (VNITW)**, Guntur, Andhra Pradesh, dedicated to building cutting-edge AI solutions for social media analytics and national security applications.
+**Sentinex Technologies** is a student innovation team from **Vignan's Nirula Institute of Technology & Science for Women (VNITSW)**, Guntur, Andhra Pradesh, dedicated to building cutting-edge AI solutions for social media analytics and national security applications.
 
 Our flagship project, **Sentinex Social Intelligence**, is developed for **Smart India Hackathon 2026** under **Problem Statement #26152** by **NTRO (National Technical Research Organisation)**.
 
@@ -31,23 +31,23 @@ Our flagship project, **Sentinex Social Intelligence**, is developed for **Smart
 ## 👥 TEAM MEMBERS
 
 ### 🎓 Department of CSE - Artificial Intelligence & Machine Learning
-**Institution:** Vignan's Nirula Institute of Technology for Women (VNITW)  
+**Institution:** Vignan's Nirula Institute of Technology & Science for Women (VNITSW)  
 **Location:** Guntur, Andhra Pradesh, India  
 **Academic Year:** 2023-2024 & 2024-2025
 
 | Roll Number | Name | Year | Role |
 |-------------|------|------|------|
-| **23NN1A4206** | **Bhogireddy Reshma** | III Year | Team Lead & Backend Developer |
-| **23NN1A4227** | **Kaparthi Manisha** | III Year | Frontend Developer & UI/UX Designer |
-| **24NN1A4202** | **Adhimulam Yamuna Tara** | II Year | Full Stack Developer & Documentation |
-| **24NN1A4227** | **Koppalli Naga Thanu Sri** | II Year | Data Analytics & Algorithm Design |
-| **24NN1A4255** | **Vatram Lalitha** | II Year | Network Analysis & Graph Algorithms |
-| **24NN1A4256** | **Yanamandala Nichala** | II Year | Sentiment Analysis & NLP |
+| **23NN1A4206** | **Bhogireddy Reshma** | IV Year | Team Lead & Backend Developer |
+| **23NN1A4227** | **Kaparthi Manisha** | IV Year | Frontend Developer & UI/UX Designer |
+| **24NN1A4202** | **Adhimulam Yamuna Tara** | III Year | Full Stack Developer & Documentation |
+| **24NN1A4227** | **Koppalli Naga Thanu Sri** | III Year | Data Analytics & Algorithm Design |
+| **24NN1A4255** | **Vatram Lalitha** | III Year | Network Analysis & Graph Algorithms |
+| **24NN1A4256** | **Yanamandala Nichala** | III Year | Sentiment Analysis & NLP |
 
 ### 👨‍🏫 Faculty Mentor
 **Dr. P. Silpa Chaitanya**  
 Head of Department - CSE (AI & ML)  
-Vignan's Nirula Institute of Technology for Women
+Vignan's Nirula Institute of Technology & Science for Women
 
 ---
 
@@ -182,13 +182,13 @@ Our project features comprehensive documentation for judges, developers, and eva
 
 ---
 
-## 🎓 ABOUT VNITW
+## 🎓 ABOUT VNITSW
 
 <div align="center">
 
-![VNITW Logo](https://github.com/Sentinex-Technologies/.github/blob/main/profile/vnitw-logo.png)
+![VNITSW Logo](https://github.com/Sentinex-Technologies/.github/blob/main/profile/VNITSW-logo.png)
 
-**Vignan's Nirula Institute of Technology for Women**
+**Vignan's Nirula Institute of Technology & Science for Women**
 
 </div>
 
@@ -199,7 +199,7 @@ Our project features comprehensive documentation for judges, developers, and eva
 
 ### 🎯 Department: CSE - AI & ML
 
-The **Department of Computer Science and Engineering (Artificial Intelligence & Machine Learning)** at VNITW focuses on cutting-edge AI technologies, machine learning algorithms, and data science applications.
+The **Department of Computer Science and Engineering (Artificial Intelligence & Machine Learning)** at VNITSW focuses on cutting-edge AI technologies, machine learning algorithms, and data science applications.
 
 **Head of Department:** Dr. P. Silpa Chaitanya
 
@@ -310,18 +310,14 @@ All documentation available in the [docs/](https://github.com/Sentinex-Technolog
 
 ### Team Communication
 **Primary Contact:** Adhimulam Yamuna Tara (24NN1A4202)  
-**Email:** sentinex.technologies@vnitw.ac.in *(team email)*
 
 ### Institution
-**Vignan's Nirula Institute of Technology for Women**  
+**Vignan's Nirula Institute of Technology & Science for Women**  
 📍 Peda Palakaluru, Guntur, Andhra Pradesh 522005  
-📧 info@vnitw.ac.in  
-🌐 [www.vnitw.ac.in](https://vnitw.ac.in/)
 
 ### Faculty Mentor
 **Dr. P. Silpa Chaitanya**  
 Head of Department - CSE (AI & ML)  
-📧 hodcseaiml@vnitw.ac.in
 
 ---
 
@@ -339,7 +335,7 @@ We welcome:
 
 This project is developed for **Smart India Hackathon 2026** under **Problem Statement #26152** by **NTRO**.
 
-**Copyright © 2026 Sentinex Technologies - VNITW**  
+**Copyright © 2026 Sentinex Technologies - VNITSW**  
 All rights reserved for educational and competition purposes.
 
 ---
@@ -351,7 +347,7 @@ All rights reserved for educational and competition purposes.
 - **NTRO** - For providing this challenging and impactful problem statement
 - **Smart India Hackathon 2026** - For the opportunity to showcase our skills
 - **Dr. P. Silpa Chaitanya** - For mentorship and guidance
-- **VNITW CSE-AI & ML Department** - For infrastructure and support
+- **VNITSW CSE-AI & ML Department** - For infrastructure and support
 - **Our College Management** - For encouraging innovation
 - **Open Source Community** - For amazing tools and libraries
 
@@ -359,7 +355,7 @@ All rights reserved for educational and competition purposes.
 
 ## 🏆 FINAL STATEMENT
 
-**Sentinex Technologies** represents the next generation of AI-powered social intelligence. Our team of six passionate students from VNITW has built a production-ready, NTRO-compliant platform that combines cutting-edge algorithms with professional engineering practices.
+**Sentinex Technologies** represents the next generation of AI-powered social intelligence. Our team of six passionate students from VNITSW has built a production-ready, NTRO-compliant platform that combines cutting-edge algorithms with professional engineering practices.
 
 **We're ready to win Smart India Hackathon 2026! 🚀**
 
@@ -373,13 +369,13 @@ All rights reserved for educational and competition purposes.
 
 ---
 
-**Made with ❤️ by Sentinex Technologies - VNITW**
+**Made with ❤️ by Sentinex Technologies - VNITSW**
 
 *Smarter Data | Deeper Insights | Safer Tomorrow*
 
 ![SIH 2026](https://img.shields.io/badge/SIH-2026-blue?style=flat-square)
 ![NTRO](https://img.shields.io/badge/NTRO-Problem%2026152-orange?style=flat-square)
-![VNITW](https://img.shields.io/badge/College-VNITW-purple?style=flat-square)
+![VNITSW](https://img.shields.io/badge/College-VNITSW-purple?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Submission%20Ready-success?style=flat-square)
 
 </div>
