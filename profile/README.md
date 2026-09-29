@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Sentinex Logo](https://github.com/Sentinex-Technologies/.github/blob/main/profile/sentinex-logo.png)
+<img src="https://github.com/Sentinex-Technologies/.github/blob/main/profile/sentinex-logo.png" alt="Sentinex Logo" width="200"/>
 
 **AI-Powered Social Media Analytics for National Security**
 
@@ -55,7 +55,7 @@ Vignan's Nirula Institute of Technology & Science for Women
 
 <div align="center">
 
-![SIH Logo](https://github.com/Sentinex-Technologies/.github/blob/main/profile/sih-logo.png)
+<img src="https://github.com/Sentinex-Technologies/.github/blob/main/profile/sih-logo.png" alt="Smart India Hackathon 2026" width="150"/>
 
 ### Problem Statement #26152
 **Organization:** NTRO (National Technical Research Organisation)  
@@ -186,7 +186,7 @@ Our project features comprehensive documentation for judges, developers, and eva
 
 <div align="center">
 
-![VNITSW Logo](https://github.com/Sentinex-Technologies/.github/blob/main/profile/VNITSW-logo.png)
+<img src="https://github.com/Sentinex-Technologies/.github/blob/main/profile/VNITSW-logo.png" alt="VNITSW Logo" width="180"/>
 
 **Vignan's Nirula Institute of Technology & Science for Women**
 
